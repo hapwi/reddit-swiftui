@@ -8,7 +8,7 @@ To show off SwiftUI's strength in cross-platform development, I did **not** use 
 
 
 ## Project Structure
-* `Shared` - Models, helpers, API, and any shared Views.
+* `Shared` - Models, helpers, API, and any shared Views. 
 * `Reddit-[PLATFORM]` - Each target folder contains a `Views` and `Representable` folder. `Views` holds platform-specific views, and `Representable` contains `UIViewRepresentables` or `NSViewRepresentables`.
 
 ## macOS Specific Features
